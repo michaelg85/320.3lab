@@ -1,6 +1,6 @@
 import Header from '../Header/Header'
 
-function LearnerPage(){
+function LearnersPage(){
     return (
         <div>
             <Header />
@@ -8,4 +8,4 @@ function LearnerPage(){
     )
 }
     
-export default LearnerPage;
+export default LearnersPage;
