@@ -5,6 +5,11 @@
   text-align: center;
 }
 
+body {
+  background-color: blanchedalmond;
+  color: black;
+}
+
 main {
   width: 80%;
   display: flex;

@@ -59,4 +59,6 @@ const learnersList = [
     }
   ]
 
-export default learnersList;
+
+export default learnersList();
+  const [name, bio] = useState(learnersList)
